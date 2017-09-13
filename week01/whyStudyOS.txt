@@ -1,1 +1,9 @@
 #ostutorial
+
+By learning Operating System, we know how to manage task including :
+1. Processor management
+2. Memory management
+3. Device management
+4. Storage management
+5. Application
+6. User interface
