@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 lidia.natalia StafCS 4096 Sep 13 09:48 .
+drwx--x--x  4 lidia.natalia StafCS 4096 Sep 13 09:24 ..
+drwxr-xr-x  8 lidia.natalia StafCS 4096 Sep 13 09:48 .git
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:37 key
+-rw-r--r--  1 lidia.natalia StafCS    0 Sep 13 09:49 lab01.txt
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:36 log
+-rw-r--r--  1 lidia.natalia StafCS    7 Sep  9 09:05 README.md
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep 13 08:22 sandbox
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep 13 08:23 week00
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:28 week01
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:29 week02
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:30 week03
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:30 week04
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:33 week05
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:33 week06
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:34 week07
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:34 week08
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:35 week09
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:36 week10
+drwxr-xr-x  2 lidia.natalia StafCS 4096 Sep  9 09:37 xtra
+/home/fasilkom/mahasiswa/l/lidia.natalia/os172/week01
