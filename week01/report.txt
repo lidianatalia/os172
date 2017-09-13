@@ -1,0 +1,7 @@
+# Week00 by lidia
+Review :
+1. Make file and delete file
+2. Make folder
+3. View folder contents
+4. Push and pull git
+5. Write file using vi and nano editor
