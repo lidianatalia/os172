@@ -1,0 +1,8 @@
+#define LINES 3
+#include <stdio.h>
+void printeq(int lines) {
+while (lines-- > 0 ) printf("= = ");
+printf("\n");
+}
+void main(void) {
+int ii;int ii;
